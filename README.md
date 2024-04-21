@@ -1,6 +1,7 @@
 # Результаты
-1. [принтскрины telegraf-grafana]
-2. [принтскрины prometheus-grafana]
+1. [принтскрины telegraf-grafana](https://github.com/VladKoretski/LoadTestEnvironment/tree/main/TelegrafGrafanaPrintScreens)
+2. [принтскрины prometheus-grafana](https://github.com/VladKoretski/LoadTestEnvironment/tree/main/PrometheusGrafanaPrintScreens)
+3. [принтскрины в Word-файле]()
 
 # Домашнее задание к лекции 2 «‎Подготовка стенда нагрузочного тестирования»
 
